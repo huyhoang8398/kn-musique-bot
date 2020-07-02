@@ -1,6 +1,6 @@
 # kn-musique-bot
 “Without music, life would be a blank to me.”― Jane Austen
-
+?style=plastic&logo=discord
 ## Features
 
 - Ban
